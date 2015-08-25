@@ -4,7 +4,7 @@ RDFLib
 RDFLib is a Python library for working with RDF, a simple yet
 powerful language for representing information as graphs.
 
-RDFLib may be installed with setuptools (easy_install) or pip::
+RDFLib may be installed with setuptools (easy_install) or pip:
 
     $ easy_install rdflib
 or
